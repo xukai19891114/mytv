@@ -1,15 +1,7 @@
 {
-    "spider": "https://github.com/xukai19891114/mytv/blob/main/wqcatyuanban.jar",
+    "spider": "https://github.com/xukai19891114/mytv/blob/main/javbus.jar",
     "sites": [
-    {
-      "key": "jav",
-      "name": "jav",
-      "type": 1,
-      "api": "https://javdb.com/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }
+   {"key":"csp_JavDb","name":"🧲JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://github.com/yungjr/TV_JAR/raw/main/XiaoWu/javbus.jar"}
 ],
 
 # 直播
